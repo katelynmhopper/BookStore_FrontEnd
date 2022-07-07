@@ -1,10 +1,10 @@
-##Description
+## Description
 This is a react app of a bookstore. You can add and remove books from your cart and favorites. This is pulling from a local server. 
-##
+## How to Run
 To run you need to clone the starter files and run npm start to get the app running. 
-##Roadmap to Future Improvements
+## Roadmap to Future Improvements
 I would like to continue working on the design of the store as well as make it searchable.
-##License
+## License
 MIT License
 
 Copyright (c) 2020 John Williams
